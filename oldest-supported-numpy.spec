@@ -4,7 +4,7 @@
 #
 Name     : oldest-supported-numpy
 Version  : 0.13
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/b1/23/07bbd3304857d928e79af0a00db6be26e78b8963bd3421919e4d05966c1d/oldest-supported-numpy-0.13.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b1/23/07bbd3304857d928e79af0a00db6be26e78b8963bd3421919e4d05966c1d/oldest-supported-numpy-0.13.tar.gz
 Summary  : Meta-package that provides the oldest NumPy that supports a given Python version and platform. If wheels for the platform became available on PyPI only for a more recent NumPy version, then that NumPy version is specified.
