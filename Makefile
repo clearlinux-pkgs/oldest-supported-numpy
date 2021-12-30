@@ -1,5 +1,5 @@
 PKG_NAME := oldest-supported-numpy
-URL = https://files.pythonhosted.org/packages/b1/23/07bbd3304857d928e79af0a00db6be26e78b8963bd3421919e4d05966c1d/oldest-supported-numpy-0.13.tar.gz
+URL = https://files.pythonhosted.org/packages/3f/0b/b1af591fa785170e4d51501c4ad72d16ccec7228856931b3bdaa62757706/oldest-supported-numpy-0.15.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
